@@ -83,7 +83,7 @@ curl -X GET https://platform.getalchemystai.com/api/v1/
 
 <br />
   <h2 align="center">🧠 Community AI Agents</h2>
-  <p align="center">These agents are part of the <a href="https://github.com/Alchemyst-ai/awesome-saas">awesome-saas</a> collection.</p>
+  <p align="center">These agents are part of the <a href="https://github.com/aronmirga19/awesome-saas">awesome-saas</a> collection.</p>
   <table>
     <thead>
       <tr>
@@ -94,35 +94,35 @@ curl -X GET https://platform.getalchemystai.com/api/v1/
     <tbody>
   <tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/GitAlchemy">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/GitAlchemy">
 <img src="https://img.shields.io/badge/GitAlchemy-1f2937?style=for-the-badge&logo=github" alt="GitAlchemy" />
 </a>
 </td>
 <td>AI agent built by the community</td>
 </tr><tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/b2b-newsletter-writer">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/b2b-newsletter-writer">
 <img src="https://img.shields.io/badge/b2b--newsletter--writer-1f2937?style=for-the-badge&logo=github" alt="b2b-newsletter-writer" />
 </a>
 </td>
 <td>AI agent built by the community</td>
 </tr><tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/company_research">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/company_research">
 <img src="https://img.shields.io/badge/company_research-1f2937?style=for-the-badge&logo=github" alt="company_research" />
 </a>
 </td>
 <td>AI agent built by the community</td>
 </tr><tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/discord-bot">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/discord-bot">
 <img src="https://img.shields.io/badge/discord--bot-1f2937?style=for-the-badge&logo=github" alt="discord-bot" />
 </a>
 </td>
 <td>AI agent built by the community</td>
 </tr><tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/prompt-evaluator">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/prompt-evaluator">
 <img src="https://img.shields.io/badge/prompt--evaluator-1f2937?style=for-the-badge&logo=github" alt="prompt-evaluator" />
 </a>
 </td>
@@ -148,12 +148,12 @@ curl -X GET https://platform.getalchemystai.com/api/v1/
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Alchemyst-ai/agent0-email">
+      <a href="https://github.com/aronmirga19/agent0-email">
         <img src="https://img.shields.io/badge/agent0--email-1f2937?style=for-the-badge&logo=github" alt="agent0-email" />
       </a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/Alchemyst-ai/agent0-email?style=social" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/aronmirga19/agent0-email?style=social" alt="Stars" />
     </td>
     <td>Agentic email automation for your email inboxes, built from the ground up with no dependencies on 3rd party providers</td>
     <td>
@@ -495,7 +495,7 @@ This is an ever expanding list - we'll keep on adding open source templates!
 
 <div align="center">
       <td align="center" width="50%">
-        <a href="https://github.com/Alchemyst-ai/awesome-saas/blob/main/leaderboard/README.md">
+        <a href="https://github.com/aronmirga19/awesome-saas/blob/main/leaderboard/README.md">
           <img src="https://img.shields.io/badge/🏆%20Community-Leaderboard-FFD700?style=for-the-badge&logo=trophy" alt="Leaderboard" />
         </a>
         <br />
@@ -526,7 +526,7 @@ Check the following:
 - ✅ Repository is set to **public**
 - ✅ Added topic **"alchemyst-awesome-saas"** to your repo
 - ✅ Wait for the **daily refresh** at 12:00 AM UTC
-- ✅ If still missing, [**raise an issue**](https://github.com/Alchemyst-ai/awesome-saas/issues/new)
+- ✅ If still missing, [**raise an issue**](https://github.com/aronmirga19/awesome-saas/issues/new)
 
 </details>
 
@@ -547,11 +547,11 @@ Check the following:
 
   <p>Made with ❤️ by the Alchemyst AI Team</p>
 
-  <a href="https://github.com/Alchemyst-ai/awesome-saas/stargazers">
-    <img src="https://img.shields.io/github/stars/Alchemyst-ai/awesome-saas?style=social" alt="GitHub Stars" />
+  <a href="https://github.com/aronmirga19/awesome-saas/stargazers">
+    <img src="https://img.shields.io/github/stars/aronmirga19/awesome-saas?style=social" alt="GitHub Stars" />
   </a>
-  <a href="https://github.com/Alchemyst-ai/awesome-saas/network/members">
-    <img src="https://img.shields.io/github/forks/Alchemyst-ai/awesome-saas?style=social" alt="GitHub Forks" />
+  <a href="https://github.com/aronmirga19/awesome-saas/network/members">
+    <img src="https://img.shields.io/github/forks/aronmirga19/awesome-saas?style=social" alt="GitHub Forks" />
   </a>
 
 </div>
