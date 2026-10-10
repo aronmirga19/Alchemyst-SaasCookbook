@@ -533,25 +533,3 @@ Check the following:
 <br />
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow line" />
-
-  <h3>🚀 Ready to build something amazing?</h3>
-
-  <a href="https://platform.getalchemystai.com" target="_blank">
-    <img src="https://img.shields.io/badge/Get%20Started%20Now-6366f1?style=for-the-badge&logo=rocket&logoColor=white" alt="Get Started" />
-  </a>
-
-  <br /><br />
-
-  <p>Made with ❤️ by the Alchemyst AI Team</p>
-
-  <a href="https://github.com/aronmirga19/awesome-saas/stargazers">
-    <img src="https://img.shields.io/github/stars/aronmirga19/awesome-saas?style=social" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/aronmirga19/awesome-saas/network/members">
-    <img src="https://img.shields.io/github/forks/aronmirga19/awesome-saas?style=social" alt="GitHub Forks" />
-  </a>
-
-</div>
