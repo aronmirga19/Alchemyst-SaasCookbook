@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/🔥%20Start%20Building-platform.getalchemystai.com-6366f1?style=for-the-badge&labelColor=1f2937" alt="Start Building" />
   </a>
   <a href="https://dub.sh/context-community" target="_blank">
-  <img src="https://img.shields.io/badge/💬%20Join%20Our%20Discord-community.getalchemystai.com-5865F2?style=for-the-badge&labelColor=1f2937" alt="Join our Discord" />
 </a>
 </div>
 
@@ -83,7 +82,7 @@ curl -X GET https://platform.getalchemystai.com/api/v1/
 
 <br />
   <h2 align="center">🧠 Community AI Agents</h2>
-  <p align="center">These agents are part of the <a href="https://github.com/Alchemyst-ai/awesome-saas">awesome-saas</a> collection.</p>
+  <p align="center">These agents are part of the <a href="https://github.com/aronmirga19/awesome-saas">awesome-saas</a> collection.</p>
   <table>
     <thead>
       <tr>
@@ -94,35 +93,35 @@ curl -X GET https://platform.getalchemystai.com/api/v1/
     <tbody>
   <tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/GitAlchemy">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/GitAlchemy">
 <img src="https://img.shields.io/badge/GitAlchemy-1f2937?style=for-the-badge&logo=github" alt="GitAlchemy" />
 </a>
 </td>
 <td>AI agent built by the community</td>
 </tr><tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/b2b-newsletter-writer">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/b2b-newsletter-writer">
 <img src="https://img.shields.io/badge/b2b--newsletter--writer-1f2937?style=for-the-badge&logo=github" alt="b2b-newsletter-writer" />
 </a>
 </td>
 <td>AI agent built by the community</td>
 </tr><tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/company_research">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/company_research">
 <img src="https://img.shields.io/badge/company_research-1f2937?style=for-the-badge&logo=github" alt="company_research" />
 </a>
 </td>
 <td>AI agent built by the community</td>
 </tr><tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/discord-bot">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/discord-bot">
 <img src="https://img.shields.io/badge/discord--bot-1f2937?style=for-the-badge&logo=github" alt="discord-bot" />
 </a>
 </td>
 <td>AI agent built by the community</td>
 </tr><tr>
 <td>
-<a href="https://github.com/Alchemyst-ai/awesome-saas/tree/main/agents/prompt-evaluator">
+<a href="https://github.com/aronmirga19/awesome-saas/tree/main/agents/prompt-evaluator">
 <img src="https://img.shields.io/badge/prompt--evaluator-1f2937?style=for-the-badge&logo=github" alt="prompt-evaluator" />
 </a>
 </td>
@@ -148,12 +147,12 @@ curl -X GET https://platform.getalchemystai.com/api/v1/
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Alchemyst-ai/agent0-email">
+      <a href="https://github.com/aronmirga19/agent0-email">
         <img src="https://img.shields.io/badge/agent0--email-1f2937?style=for-the-badge&logo=github" alt="agent0-email" />
       </a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/Alchemyst-ai/agent0-email?style=social" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/aronmirga19/agent0-email?style=social" alt="Stars" />
     </td>
     <td>Agentic email automation for your email inboxes, built from the ground up with no dependencies on 3rd party providers</td>
     <td>
@@ -169,333 +168,12 @@ This is an ever expanding list - we'll keep on adding open source templates!
 
 <br />
 
-### 🚀 Community Templates
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Community%20Templates-21%20(Total%20108%20stars)-FF6B6B?style=for-the-badge" alt="Community Templates" />
-</div>
-
-<br />
-
-<table>
-  <tr>
-    <th width="200">🎯 Project</th>
-    <th width="100">⭐ Stars</th>
-    <th width="400">📝 Description</th>
-    <th width="150">🏷️ Topics</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/asengupta07/MASHire">
-        <img src="https://img.shields.io/badge/MASHire-1f2937?style=for-the-badge&logo=github" alt="MASHire" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/asengupta07/MASHire?style=social" alt="Stars" />
-    </td>
-    <td>MASHire is an intelligent and autonomous job posting and recruitment platform powered by AI. It automates candidate screening, interview scheduling, and communication, helping companies save time and hire better talent.</td>
-    <td>
-      <img src="https://img.shields.io/badge/hiring-blue?style=flat-square" alt="hiring" />
-      <img src="https://img.shields.io/badge/hr-green?style=flat-square" alt="hr" />
-      <img src="https://img.shields.io/badge/recruitment-purple?style=flat-square" alt="recruitment" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ayash-Bera/socrates">
-        <img src="https://img.shields.io/badge/socrates-1f2937?style=for-the-badge&logo=github" alt="socrates" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/Ayash-Bera/socrates?style=social" alt="Stars" />
-    </td>
-    <td>Deep Research bot made using alchemyst</td>
-    <td>
-      <img src="https://img.shields.io/badge/socrates-blue?style=flat-square" alt="socrates" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ayushjo/CodeNarratorWhole">
-        <img src="https://img.shields.io/badge/CodeNarratorWhole-1f2937?style=for-the-badge&logo=github" alt="CodeNarratorWhole" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/Ayushjo/CodeNarratorWhole?style=social" alt="Stars" />
-    </td>
-    <td>ZenDocs is a full-stack MERN application that automatically generates clean, structured documentation from uploaded code files (ZIP). It parses your backend code, extracts endpoint and function details, and provides instant, downloadable documentation in both web and PDF format.</td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Coden-inja/alchEmaiLyst">
-        <img src="https://img.shields.io/badge/alchEmaiLyst-1f2937?style=for-the-badge&logo=github" alt="alchEmaiLyst" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/Coden-inja/alchEmaiLyst?style=social" alt="Stars" />
-    </td>
-    <td>A three agent system for leveraging AI to summarise, compose, send emails. Also stay away from spam</td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/foxy-dev1/Telegram-MemeGenerator-Bot">
-        <img src="https://img.shields.io/badge/Telegram--MemeGenerator--Bot-1f2937?style=for-the-badge&logo=github" alt="Telegram-MemeGenerator-Bot" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/foxy-dev1/Telegram-MemeGenerator-Bot?style=social" alt="Stars" />
-    </td>
-    <td>A Telegram bot to make meme's of your Conversations to make you seem funnier or just to troll in your chats</td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/haroon0x/CliAgent">
-        <img src="https://img.shields.io/badge/CliAgent-1f2937?style=for-the-badge&logo=github" alt="CliAgent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/haroon0x/CliAgent?style=social" alt="Stars" />
-    </td>
-    <td>CliCode agent for automated python coding tasks using alchemyst ai proxy llm</td>
-    <td>
-      <img src="https://img.shields.io/badge/cliagent-blue?style=flat-square" alt="cliagent" />
-      <img src="https://img.shields.io/badge/codeagent-green?style=flat-square" alt="codeagent" />
-      <img src="https://img.shields.io/badge/coding-purple?style=flat-square" alt="coding" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/haroon0x/CrawlWise">
-        <img src="https://img.shields.io/badge/CrawlWise-1f2937?style=for-the-badge&logo=github" alt="CrawlWise" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/haroon0x/CrawlWise?style=social" alt="Stars" />
-    </td>
-    <td>CrawlWise – The GEOAgent</td>
-    <td>
-      <img src="https://img.shields.io/badge/geo-blue?style=flat-square" alt="geo" />
-      <img src="https://img.shields.io/badge/seo-green?style=flat-square" alt="seo" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/haroon0x/PromoAgent">
-        <img src="https://img.shields.io/badge/PromoAgent-1f2937?style=for-the-badge&logo=github" alt="PromoAgent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/haroon0x/PromoAgent?style=social" alt="Stars" />
-    </td>
-    <td>PromoAgent: An autonomous agent built with LangGraph using Alchemyst AI that discovers marketing opportunities on Reddit, generates tailored content and posts replies without getting blocked.</td>
-    <td>
-      <img src="https://img.shields.io/badge/marketing-blue?style=flat-square" alt="marketing" />
-      <img src="https://img.shields.io/badge/promotion-green?style=flat-square" alt="promotion" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/harshit07kr/Insta-Caption-Generator">
-        <img src="https://img.shields.io/badge/Insta--Caption--Generator-1f2937?style=for-the-badge&logo=github" alt="Insta-Caption-Generator" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/harshit07kr/Insta-Caption-Generator?style=social" alt="Stars" />
-    </td>
-    <td>No description available</td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hatif03/travel_mcp_agent">
-        <img src="https://img.shields.io/badge/travel_mcp_agent-1f2937?style=for-the-badge&logo=github" alt="travel_mcp_agent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/hatif03/travel_mcp_agent?style=social" alt="Stars" />
-    </td>
-    <td>plan your travel with ai.</td>
-    <td>
-      <img src="https://img.shields.io/badge/travel-blue?style=flat-square" alt="travel" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/itsshresth/brainrot">
-        <img src="https://img.shields.io/badge/brainrot-1f2937?style=for-the-badge&logo=github" alt="brainrot" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/itsshresth/brainrot?style=social" alt="Stars" />
-    </td>
-    <td>Generate brainrot ai videos about any topic you want (uses alchemyst ai)</td>
-    <td>
-      <img src="https://img.shields.io/badge/creator-blue?style=flat-square" alt="creator" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/itsshresth/dmdom">
-        <img src="https://img.shields.io/badge/dmdom-1f2937?style=for-the-badge&logo=github" alt="dmdom" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/itsshresth/dmdom?style=social" alt="Stars" />
-    </td>
-    <td>generates cold dms , by getting information about target's bio and recent tweets and user intent of dmming</td>
-    <td>
-      <img src="https://img.shields.io/badge/dm-blue?style=flat-square" alt="dm" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/kash2104/insureai">
-        <img src="https://img.shields.io/badge/insureai-1f2937?style=for-the-badge&logo=github" alt="insureai" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/kash2104/insureai?style=social" alt="Stars" />
-    </td>
-    <td>Upload your insurance documents and discover similar plans—all securely and efficiently.</td>
-    <td>
-      <img src="https://img.shields.io/badge/medical-insurance-blue?style=flat-square" alt="medical-insurance" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/KhushiMhasange/Twitter-lead">
-        <img src="https://img.shields.io/badge/Twitter--lead-1f2937?style=for-the-badge&logo=github" alt="Twitter-lead" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/KhushiMhasange/Twitter-lead?style=social" alt="Stars" />
-    </td>
-    <td>Let's You Find People Interested in your product or work</td>
-    <td>
-      <img src="https://img.shields.io/badge/social-blue?style=flat-square" alt="social" />
-      <img src="https://img.shields.io/badge/twitter-green?style=flat-square" alt="twitter" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mayank-sengar/VC_Compass">
-        <img src="https://img.shields.io/badge/VC_Compass-1f2937?style=for-the-badge&logo=github" alt="VC_Compass" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/mayank-sengar/VC_Compass?style=social" alt="Stars" />
-    </td>
-    <td>VC-Compass: An agent that matches startup pitches with relevant VCs by scraping investor data, detecting pitch domains, and evaluating fit using Alchemyst AI.</td>
-    <td>
-      <img src="https://img.shields.io/badge/vc-blue?style=flat-square" alt="vc" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/oelamazonas/email-agent">
-        <img src="https://img.shields.io/badge/email--agent-1f2937?style=for-the-badge&logo=github" alt="email-agent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/oelamazonas/email-agent?style=social" alt="Stars" />
-    </td>
-    <td>📧 Streamline your inbox with Email Agent AI; it automatically sorts, classifies, and archives emails across multiple accounts for effortless management.</td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Rustix69/HackerNews-Podcast">
-        <img src="https://img.shields.io/badge/HackerNews--Podcast-1f2937?style=for-the-badge&logo=github" alt="HackerNews-Podcast" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/Rustix69/HackerNews-Podcast?style=social" alt="Stars" />
-    </td>
-    <td>This is a Agentic AI which tracks the latest post of a user and make a podcast convo on the basis of the YC News Portal.</td>
-    <td>
-      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
-      <img src="https://img.shields.io/badge/marketing-green?style=flat-square" alt="marketing" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/saksham-1304/AskMyPDF">
-        <img src="https://img.shields.io/badge/AskMyPDF-1f2937?style=for-the-badge&logo=github" alt="AskMyPDF" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/saksham-1304/AskMyPDF?style=social" alt="Stars" />
-    </td>
-    <td>🤖 AI-Powered PDF Chat App | Dual AI Engine (Alchemyst + Gemini) | RAG Pipeline | Vector Search | MERN + TypeScript</td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/soumyacodes007/AlcheAnimyst">
-        <img src="https://img.shields.io/badge/AlcheAnimyst-1f2937?style=for-the-badge&logo=github" alt="AlcheAnimyst" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/soumyacodes007/AlcheAnimyst?style=social" alt="Stars" />
-    </td>
-    <td>AI tool that turns your written prompts or code into 2D animated videos with sound. Powered by Alchemyst AI</td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/srivathsav999/crm-agent">
-        <img src="https://img.shields.io/badge/crm--agent-1f2937?style=for-the-badge&logo=github" alt="crm-agent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/srivathsav999/crm-agent?style=social" alt="Stars" />
-    </td>
-    <td>A modern, full-stack Customer Relationship Management (CRM) system built with Node.js, MongoDB, and React. This system allows you to efficiently manage leads and contacts with a clean, intuitive interface.</td>
-    <td>
-      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
-      <img src="https://img.shields.io/badge/crm-green?style=flat-square" alt="crm" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/srivathsav999/email-agent">
-        <img src="https://img.shields.io/badge/email--agent-1f2937?style=for-the-badge&logo=github" alt="email-agent" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/srivathsav999/email-agent?style=social" alt="Stars" />
-    </td>
-    <td>AI-powered email management system with automated replies and email generation.</td>
-    <td>
-      <img src="https://img.shields.io/badge/b2b-blue?style=flat-square" alt="b2b" />
-      <img src="https://img.shields.io/badge/email-agent-green?style=flat-square" alt="email-agent" />
-    </td>
-  </tr></table>
-
-<br />
 
 ## 🏆 Community
 
 <div align="center">
       <td align="center" width="50%">
-        <a href="https://github.com/Alchemyst-ai/awesome-saas/blob/main/leaderboard/README.md">
+        <a href="https://github.com/aronmirga19/awesome-saas/blob/main/leaderboard/README.md">
           <img src="https://img.shields.io/badge/🏆%20Community-Leaderboard-FFD700?style=for-the-badge&logo=trophy" alt="Leaderboard" />
         </a>
         <br />
@@ -526,7 +204,7 @@ Check the following:
 - ✅ Repository is set to **public**
 - ✅ Added topic **"alchemyst-awesome-saas"** to your repo
 - ✅ Wait for the **daily refresh** at 12:00 AM UTC
-- ✅ If still missing, [**raise an issue**](https://github.com/Alchemyst-ai/awesome-saas/issues/new)
+- ✅ If still missing, [**raise an issue**](https://github.com/aronmirga19/awesome-saas/issues/new)
 
 </details>
 
@@ -547,11 +225,11 @@ Check the following:
 
   <p>Made with ❤️ by the Alchemyst AI Team</p>
 
-  <a href="https://github.com/Alchemyst-ai/awesome-saas/stargazers">
-    <img src="https://img.shields.io/github/stars/Alchemyst-ai/awesome-saas?style=social" alt="GitHub Stars" />
+  <a href="https://github.com/aronmirga19/awesome-saas/stargazers">
+    <img src="https://img.shields.io/github/stars/aronmirga19/awesome-saas?style=social" alt="GitHub Stars" />
   </a>
-  <a href="https://github.com/Alchemyst-ai/awesome-saas/network/members">
-    <img src="https://img.shields.io/github/forks/Alchemyst-ai/awesome-saas?style=social" alt="GitHub Forks" />
+  <a href="https://github.com/aronmirga19/awesome-saas/network/members">
+    <img src="https://img.shields.io/github/forks/aronmirga19/awesome-saas?style=social" alt="GitHub Forks" />
   </a>
 
 </div>
